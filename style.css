@@ -68,4 +68,15 @@
     position: absolute;
     transform: translate(-50%,0%);
     color: #ff7300;
+     background-color: #95e0ff69;
+
+    height: 7vw;
+
+    width: 32vw;
+
+    padding: 1.5vw 2vw 2.5vw 2vw;
+
+    border-radius: 66vw;
+
+    box-shadow: 0 0 1vw #ff1f00;
 }
